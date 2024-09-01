@@ -1,0 +1,3 @@
+﻿  ranacpp4dsa.cpp
+C:\Users\NewUser\source\repos\ranacpp4dsa\ranacpp4dsa.cpp(9,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ranacpp4dsa.vcxproj -> C:\Users\NewUser\source\repos\ranacpp4dsa\x64\Debug\ranacpp4dsa.exe
