@@ -27,5 +27,30 @@ int main() {
 	int n14 = (int)n12;
 	cout << n13 << n14;
 
+	//TUTORIAL PROJECTS
+
+	// FLOAT MULTIPLICATION
+	cout << endl << "FLOAT MULTIPLICATION!!" << endl;
+	float a, b, c;
+	cout << "Enter A Float = ";
+	cin >> a;
+	cout << "And = ";
+	cin >> b;
+	c = a * b;
+	cout << "The Product Of Two Floats Is = " << c << endl;
+
+	//FIND SIZE OF VAR
+	cout << "Size of int = " << sizeof(int) << " bytes" << endl;
+
+	//SWAPPING VARS
+	int n15 = 10;
+	int n16 = 20,temp;
+	cout << "First Number = " << n15 << endl << "Second Number = " << n16 << endl;
+	temp = n15;
+	n15 = n16;
+	n16 = temp;
+	cout << "Swapped First Number = " << n15 << endl << "Swapped Second Number = " << n16 << endl;1
+	
+
 	return 0;
 }
