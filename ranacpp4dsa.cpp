@@ -49,7 +49,7 @@ int main() {
 	temp = n15;
 	n15 = n16;
 	n16 = temp;
-	cout << "Swapped First Number = " << n15 << endl << "Swapped Second Number = " << n16 << endl;1
+	cout << "Swapped First Number = " << n15 << endl << "Swapped Second Number = " << n16 << endl;
 	
 
 	return 0;
