@@ -50,7 +50,20 @@ int main() {
 	n15 = n16;
 	n16 = temp;
 	cout << "Swapped First Number = " << n15 << endl << "Swapped Second Number = " << n16 << endl;
-	
+	int n17 = 5 > 16;
+	cout << "n17 Is False (0) = " << n17 << endl;
+	int n18 = (78 > 56) && (90 > 89.9);
+	cout << "n18 Is = " << n18 << endl;
+	int n19;
+	cout << "Enter A Number = ";
+	cin >> n19;
+	if (n19 > 0) {
+		cout << "Happy Rabbits!" << endl;
+	}
+	else if (n19 == 0)
+		cout << "Sad Rabbits!" << endl;
+	else
+		cout << "Careless Rabbits!" << endl;
 
 	return 0;
 }
