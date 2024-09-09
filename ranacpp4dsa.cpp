@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+	int sum_loop = 0;
 	int n1;
 	double n2 = 7.9;
 	float n3 = 57.4f;
@@ -54,6 +55,7 @@ int main() {
 	cout << "n17 Is False (0) = " << n17 << endl;
 	int n18 = (78 > 56) && (90 > 89.9);
 	cout << "n18 Is = " << n18 << endl;
+	//if
 	int n19;
 	cout << "Enter A Number = ";
 	cin >> n19;
@@ -64,6 +66,19 @@ int main() {
 		cout << "Sad Rabbits!" << endl;
 	else
 		cout << "Careless Rabbits!" << endl;
+	//for loop
+	for (int i = 0; i <= 10; i++) {
+		cout << i << "Hopping Rabbits!" << endl;
+		sum_loop = sum_loop + i;
+	}
+	cout << "Sum Is = " << sum_loop << endl;
+	for (int j = 1; j <= 2; j--) {
+		cout << j;
+		if (j == -10)
+			break;
+	}
+	//while loop
+
 
 	return 0;
 }
