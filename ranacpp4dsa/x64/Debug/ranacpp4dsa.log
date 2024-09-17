@@ -1,7 +1,7 @@
 ﻿  ranacpp4dsa.cpp
-C:\Users\NewUser\source\repos\ranacpp4dsa\ranacpp4dsa.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\NewUser\source\repos\ranacpp4dsa\ranacpp4dsa.cpp(23,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\NewUser\source\repos\ranacpp4dsa\ranacpp4dsa.cpp(23,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\NewUser\source\repos\ranacpp4dsa\ranacpp4dsa.cpp(26,12): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\NewUser\source\repos\ranacpp4dsa\ranacpp4dsa.cpp(26,24): warning C4305: 'initializing': truncation from 'double' to 'float'
-  ranacpp4dsa.vcxproj -> C:\Users\NewUser\source\repos\ranacpp4dsa\x64\Debug\ranacpp4dsa.exe
+C:\Users\asama\Source\Repos\ranacpp4dsa\ranacpp4dsa.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asama\Source\Repos\ranacpp4dsa\ranacpp4dsa.cpp(23,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\asama\Source\Repos\ranacpp4dsa\ranacpp4dsa.cpp(23,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\asama\Source\Repos\ranacpp4dsa\ranacpp4dsa.cpp(26,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\asama\Source\Repos\ranacpp4dsa\ranacpp4dsa.cpp(26,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ranacpp4dsa.vcxproj -> C:\Users\asama\Source\Repos\ranacpp4dsa\x64\Debug\ranacpp4dsa.exe
