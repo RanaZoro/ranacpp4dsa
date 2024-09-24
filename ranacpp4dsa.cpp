@@ -77,8 +77,33 @@ int main() {
 		if (j == -10)
 			break;
 	}
-	//while loop
+	int n20 = 1;
+	//while loop + continue
+	while (true) {
+		cout << "\nWhile Rabbit";
+		n20 = n20 + 1;
+		if (n20 == 7)
+			break;
+		if (n20 == 5)
+			continue;
+		cout << "\nTest";
+	}
 
+	int n21;
+	while (true){
+		cout << "\nEnter An Even Number = ";
+		cin >> n21;
+		if (n21 % 2 == 0)
+			break;
+    }
+
+	//do while
+	int n22 = 1;
+	do {
+		n22++;
+		cout << endl << n22;
+	}
+	while (n22 < 5);
 
 	return 0;
 }
